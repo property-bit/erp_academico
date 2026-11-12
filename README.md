@@ -1,67 +1,48 @@
-# Sistema de Venta de Tickets
+# 🎟️ TicketDrams S.A. - Sistema ERP de Venta de Entradas Online
 
-![Banner del Sistema de Venta de Tickets](https://placehold.co/1200x320/1f4e79/ffffff?text=Sistema+de+Venta+de+Tickets)
+## 📋 Descripción del Proyecto
 
-## Descripción del proyecto
+**TicketDrams S.A.** es un proyecto enfocado en el desarrollo e implementación de un sistema ERP especializado en la venta de entradas online para eventos culturales, deportivos, artísticos y de entretenimiento. El objetivo principal de la plataforma es brindar un servicio económico y accesible a pequeños emprendedores, optimizando la gestión de ventas, mejorando la experiencia del usuario y garantizando alta disponibilidad en todo momento.
 
-El proyecto consiste en desarrollar un sistema para gestionar la compra, reserva y administración de entradas para eventos, espectáculos, conciertos, funciones de cine, conferencias y actividades relacionadas con la programación cultural y recreativa. El objetivo es centralizar la venta de tickets y ofrecer una experiencia ordenada tanto para clientes como para administradores.
+El sistema integra módulos centralizados para la administración de eventos, control de inventario de entradas, gestión de clientes, procesamiento de pagos, generación de reportes y atención al cliente.
 
-La aplicación permitirá consultar eventos disponibles, seleccionar asientos, comprar o reservar tickets y obtener comprobantes de compra de forma rápida y segura. También ofrecerá herramientas para la administración de eventos, disponibilidad de entradas y seguimiento de ventas.
+---
 
-## Objetivo general
+## 🎯 Objetivos del Proyecto
 
-Desarrollar un sistema informático que permita gestionar eficientemente la venta y administración de tickets para diferentes eventos, garantizando rapidez, seguridad y control en las transacciones.
+### Objetivo General
 
-## Tipos de usuario
+Desarrollar un sistema ERP de venta de entradas online que optimice la gestión operativa de TicketDrams S.A., ofreciendo un servicio rápido, seguro y confiable para los usuarios.
 
-### Clientes
+### Objetivos Específicos
 
-- Registrarse e iniciar sesión.
-- Consultar los eventos disponibles.
-- Comprar o reservar tickets.
-- Seleccionar asientos, cuando el evento lo permita.
-- Obtener comprobantes de compra.
-- Consultar su historial de compras.
+- **Automatización:** Automatizar el proceso de venta y reserva de entradas.
+- **Rendimiento:** Mejorar la velocidad de respuesta de la plataforma durante períodos de alta demanda.
+- **Centralización:** Unificar la gestión de eventos, clientes y transacciones en una sola plataforma.
+- **Análisis de Datos:** Generar reportes en tiempo real para apoyar la toma de decisiones.
+- **Experiencia de Usuario:** Incrementar la satisfacción del cliente mediante una experiencia de compra eficiente y segura.
 
-### Administradores
+---
 
-- Crear, modificar y eliminar eventos.
-- Gestionar la disponibilidad de entradas.
-- Controlar las ventas.
-- Consultar reportes estadísticos de ventas e ingresos.
+## ⚠️ Problema a Resolver
 
-## Funcionalidades principales
+Las plataformas tradicionales de venta de entradas suelen presentar inconvenientes críticos como:
 
-- Registro e inicio de sesión de usuarios.
-- Visualización y consulta de eventos disponibles.
-- Compra y reserva de tickets.
-- Selección de asientos.
-- Generación de comprobantes de compra.
-- Administración de eventos.
-- Control de disponibilidad de entradas.
-- Reportes de ventas e ingresos.
-- Historial de compras por cliente.
+- Tiempos de espera elevados.
+- Caídas e interrupciones del sistema durante eventos de alta demanda.
+- Procesos operativos poco eficientes que generan pérdidas económicas para organizadores y clientes.
 
-## Beneficios esperados
+**TicketDrams S.A.** soluciona estas deficiencias a través de una arquitectura moderna, optimizada y robusta que garantiza calidad y estabilidad en el servicio.
 
-- Automatizar el proceso de venta de entradas.
-- Reducir los tiempos de espera para los compradores.
-- Disminuir errores en la asignación de asientos y el control de tickets.
-- Facilitar la administración de eventos y ventas.
-- Ofrecer una experiencia cómoda para clientes y organizadores.
+---
 
-## Tecnologías sugeridas
+## 👥 Autores y Contexto Académico
 
-Las tecnologías definitivas dependerán de las necesidades y el alcance del proyecto. Algunas alternativas consideradas son:
-
-| Componente | Opciones sugeridas |
-| --- | --- |
-| Lenguaje de programación | C#, Java, Python o JavaScript |
-| Base de datos | SQL Server, MySQL o PostgreSQL |
-| Interfaz | Aplicación web o interfaz gráfica |
-
-## Alcance
-
-El sistema está pensado para la gestión de eventos de distintos tipos. La selección de asientos podrá utilizarse en aquellos eventos que cuenten con localidades numeradas; para otros, se podrá gestionar la venta sin asignación específica de butacas.
+- **Institución:** Pontificia Universidad Católica del Ecuador (PUCE)
+- **Facultad:** Ingeniería en Sistemas de la Información
+- **Asignatura:** Diseño de Sistemas de Información
+- **Equipo de Trabajo:** Said Ñacata, Williams Quilligan y Ángel Yaguache
+- **Docente:** Ing. Sebastian Tamayo
+- **Fecha:** 27/10/2026
 
 ![Referencia](https://i.pinimg.com/736x/67/9a/ca/679aca94c8ef76a404ff0555a1e802e5.jpg)
