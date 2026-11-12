@@ -4,9 +4,9 @@
 
 ## Descripción del proyecto
 
-El proyecto consiste en desarrollar un sistema para gestionar la compra, reserva y administración de entradas para eventos, espectáculos, conciertos, funciones de cine, conferencias y actividades similares.
+El proyecto consiste en desarrollar un sistema para gestionar la compra, reserva y administración de entradas para eventos, espectáculos, conciertos, funciones de cine, conferencias y actividades relacionadas con la programación cultural y recreativa. El objetivo es centralizar la venta de tickets y ofrecer una experiencia ordenada tanto para clientes como para administradores.
 
-La aplicación permitirá consultar eventos disponibles, seleccionar asientos, comprar o reservar tickets y obtener comprobantes de compra de forma rápida y segura. También ofrecerá herramientas para que los administradores gestionen los eventos, las entradas y las ventas.
+La aplicación permitirá consultar eventos disponibles, seleccionar asientos, comprar o reservar tickets y obtener comprobantes de compra de forma rápida y segura. También ofrecerá herramientas para la administración de eventos, disponibilidad de entradas y seguimiento de ventas.
 
 ## Objetivo general
 
@@ -62,4 +62,6 @@ Las tecnologías definitivas dependerán de las necesidades y el alcance del pro
 
 ## Alcance
 
-El sistema está pensado para la gestión de eventos de distintos tipos. La selección de asientos podrá utilizarse en aquellos eventos que cuenten con localidades numeradas; para otros, se podrá gestionar la disponibilidad general de entradas.
+El sistema está pensado para la gestión de eventos de distintos tipos. La selección de asientos podrá utilizarse en aquellos eventos que cuenten con localidades numeradas; para otros, se podrá gestionar la venta sin asignación específica de butacas.
+
+![Referencia](https://i.pinimg.com/736x/67/9a/ca/679aca94c8ef76a404ff0555a1e802e5.jpg)
