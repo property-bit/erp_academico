@@ -1,5 +1,7 @@
 # 🎟️ TicketDrams S.A. - Sistema ERP de Venta de Entradas Online
 
+![Referencia](https://i.pinimg.com/736x/67/9a/ca/679aca94c8ef76a404ff0555a1e802e5.jpg)
+
 ## 📋 Descripción del Proyecto
 
 **TicketDrams S.A.** es un proyecto enfocado en el desarrollo e implementación de un sistema ERP especializado en la venta de entradas online para eventos culturales, deportivos, artísticos y de entretenimiento. El objetivo principal de la plataforma es brindar un servicio económico y accesible a pequeños emprendedores, optimizando la gestión de ventas, mejorando la experiencia del usuario y garantizando alta disponibilidad en todo momento.
@@ -45,4 +47,4 @@ Las plataformas tradicionales de venta de entradas suelen presentar inconvenient
 - **Docente:** Ing. Sebastian Tamayo
 - **Fecha:** 27/10/2026
 
-![Referencia](https://i.pinimg.com/736x/67/9a/ca/679aca94c8ef76a404ff0555a1e802e5.jpg)
+
